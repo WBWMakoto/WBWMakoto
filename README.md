@@ -1,15 +1,25 @@
-### Hi there 👋
+# Profile view since 21/9/2022 18:54 (GMT +7) ![](https://komarev.com/ghpvc/?username=MakotoTheGod&color=green)
+
+Hi everyone 👋, I'm Makoto-kun, a wibu developer and thanks anyone who spend 6.69 seconds to viewing my profile :D
+
+**Technology that learning and coding frequently (updated 21/9/2022):**
+- 🤖 Javascript
+- 🤖 Csharp 
+- 🤖 VBScript
+- 🤖 HTML
+- 🤖 CSS 
+- 🤖 Python 
+
+**My main projects on Discord:**
+- [Corona-chan (verified by Discord)](https://top.gg/bot/657215950420049941)
+- [Anime-chan](https://discord.com/oauth2/authorize?client_id=631096207254618141&scope=bot&permissions=139653925952)
+
+**Contract me/my info/non-code projects:**
+- [Discord personal:](https://discordapp.com/users/485277325328384000)
+- [Discord server:](https://discord.com/invite/wbw)
+- [Facebook:](https://www.facebook.com/makotothegodisbest)
+- [Youtube:](https://www.youtube.com/c/LolSkiller)
+- [Donate me via paypal (thanks ❤️):](https://paypal.me/makotowbw)
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Discord,Youtube, Facebook,...
-- 🌱 I’m currently learning ... C#, JavaScript
-- 👯 I’m looking to collaborate on ... JavaScript
-- 🤔 I’m looking for help with ... C++
-- 💬 Ask me about ... Anything that I can awswer :)
-- 📫 How to reach me: ... [Discord server](https://discord.com/invite/wbw)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love watching anime :))
 
