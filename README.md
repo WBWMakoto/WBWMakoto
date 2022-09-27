@@ -1,4 +1,4 @@
-# Hi everyone 👋, I'm Makoto-kun, a wibu developer and thanks you and anyone who spend 6.69 seconds to viewing my profile :D ![](https://komarev.com/ghpvc/?username=MakotoTheGod&color=green&style=for-the-badge&label=Profile+view+since+21/9/2022)
+# Hi everyone 👋, I'm Makoto-kun, nice to see you here :D ![](https://komarev.com/ghpvc/?username=MakotoTheGod&color=green&style=for-the-badge&label=Profile+view+since+21/9/2022)
 
  **Technology that learning and coding frequently (updated 21/9/2022):**
 
