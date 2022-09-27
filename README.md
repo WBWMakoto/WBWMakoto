@@ -14,10 +14,6 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vsc" width="40" height="40" style="max-width: 100%;">
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="40" height="40" style="max-width: 100%;">
 
-
-
-
-
 # 
  **My main projects on Discord:**
 - [Corona-chan (verified by Discord)](https://top.gg/bot/657215950420049941)
