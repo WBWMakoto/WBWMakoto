@@ -1,4 +1,4 @@
-# Hi everyone 👋, I'm Makoto-kun, nice to see you here :D ![](https://komarev.com/ghpvc/?username=MakotoTheGod&color=green&style=for-the-badge&label=Profile+view+since+21/9/2022)
+# Hi everyone 👋, I'm Makoto-kun, nice to see you here, hope you will support me :D ![](https://komarev.com/ghpvc/?username=MakotoTheGod&color=green&style=for-the-badge&label=Profile+view+since+21/9/2022)
 
  **Technology that learning and coding frequently (updated 21/9/2022):**
 
