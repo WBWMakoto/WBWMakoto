@@ -28,7 +28,8 @@
 - [Youtube](https://www.youtube.com/c/LolSkiller)
 - [Donate me via paypal (thanks ❤️)](https://paypal.me/makotowbw)
 - [Donate to Me via Momo (Thank you ❤️)](https://me.momo.vn/OeIRu8IViku9TyiPu4Te)
-#
+# 
+**One of the best anime banners that I found ^^⛩️:**
 ![image](https://github.com/WBWMakoto/WBWMakoto/assets/57854962/ced4f769-5977-4a67-b266-9fa7242521cc)
 
 
