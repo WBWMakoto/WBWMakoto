@@ -1,4 +1,4 @@
-# Hello, everyone! 👋 I'm Makoto-kun (also known as Trần Minh Long), and it's great to have you here 😄.[](https://komarev.com/ghpvc/?username=MakotoTheGod&color=green&style=for-the-badge&label=Profile+view+since+21/9/2022)
+## Hello, everyone! 👋 I'm Makoto-kun aka Trần Minh Long, a Weeb developer.[](https://komarev.com/ghpvc/?username=MakotoTheGod&color=green&style=for-the-badge&label=Profile+view+since+21/9/2022)
 
  **Technology that learning and coding frequently 🌟 (Last updated at: 2/10/2023):**
 
@@ -29,10 +29,7 @@
 - [Donate me via paypal (thanks ❤️)](https://paypal.me/makotowbw)
 - [Donate to Me via Momo (Thank you ❤️)](https://me.momo.vn/OeIRu8IViku9TyiPu4Te)
 #
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://github.com/WBWMakoto/WBWMakoto/assets/57854962/69c172bf-7e74-42e6-9eeb-61c8abaad56d" alt="Discord: discord.gg/wbw" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-</div>
-
+![image](https://github.com/WBWMakoto/WBWMakoto/assets/57854962/ced4f769-5977-4a67-b266-9fa7242521cc)
 
 
 
