@@ -28,7 +28,11 @@
 - [Youtube](https://www.youtube.com/c/LolSkiller)
 - [Donate me via paypal (thanks ❤️)](https://paypal.me/makotowbw)
 - [Donate to Me via Momo (Thank you ❤️)](https://me.momo.vn/OeIRu8IViku9TyiPu4Te)
+#
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://github.com/WBWMakoto/WBWMakoto/assets/57854962/69c172bf-7e74-42e6-9eeb-61c8abaad56d" alt="Discord: discord.gg/wbw" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
 
 
-![image](https://github.com/WBWMakoto/WBWMakoto/assets/57854962/69c172bf-7e74-42e6-9eeb-61c8abaad56d)
+
 
