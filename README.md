@@ -1,4 +1,4 @@
-## Hello, everyone! I'm Makoto-kun aka Trần Minh Long, a Weeb developer.[](https://komarev.com/ghpvc/?username=MakotoTheGod&color=green&style=for-the-badge&label=Profile+view+since+21/9/2022)
+## Hello, everyone! I'm Makoto-kun aka Trần Minh Long, a Weeb developer. ![](https://komarev.com/ghpvc/?username=MakotoTheGod&color=green&style=for-the-badge&label=Profile+view+since+21/9/2022)
 
  **Technology that learning and coding frequently 🌟 (Last updated at: 2/10/2023):**
 
