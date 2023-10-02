@@ -1,6 +1,6 @@
-# Hi everyone 👋, I'm Makoto-kun a.k.a Trần Minh Long, nice to see you here, hope you will support me :D ![](https://komarev.com/ghpvc/?username=MakotoTheGod&color=green&style=for-the-badge&label=Profile+view+since+21/9/2022)
+# Hello, everyone! 👋 I'm Makoto-kun (also known as Trần Minh Long), and it's great to have you here 😄.[](https://komarev.com/ghpvc/?username=MakotoTheGod&color=green&style=for-the-badge&label=Profile+view+since+21/9/2022)
 
- **Technology that learning and coding frequently (updated 21/9/2022):**
+ **Technology that learning and coding frequently 🌟 (Last updated at: 2/10/2023):**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;">
@@ -29,4 +29,6 @@
 - [Donate me via paypal (thanks ❤️)](https://paypal.me/makotowbw)
 - [Donate to Me via Momo (Thank you ❤️)](https://me.momo.vn/OeIRu8IViku9TyiPu4Te)
 
+
+![image](https://github.com/WBWMakoto/WBWMakoto/assets/57854962/69c172bf-7e74-42e6-9eeb-61c8abaad56d)
 
