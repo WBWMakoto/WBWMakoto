@@ -13,18 +13,20 @@
 <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodejs" width="40" height="40" style="max-width: 100%;">
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vsc" width="40" height="40" style="max-width: 100%;">
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="40" height="40" style="max-width: 100%;">
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" alt="npm" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="npm" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg" alt="npm" width="40" height="40" style="max-width: 100%;">
 # 
- **My main projects on Discord:**
+**My Main Discord Projects 🎮:**
 - [Corona-chan (verified by Discord)](https://top.gg/bot/657215950420049941)
 - [Anime-chan (verified by Discord)](https://top.gg/bot/631096207254618141)
 # 
- **Contract me/my info/non-code projects:**
+**Contact Me / Info / Non-Code Projects 🌸:**
 - [Discord personal](https://discordapp.com/users/485277325328384000)
 - [Discord server](https://discord.com/invite/wbw)
 - [Facebook](https://www.facebook.com/wbwmakoto)
 - [Youtube](https://www.youtube.com/c/LolSkiller)
 - [Donate me via paypal (thanks ❤️)](https://paypal.me/makotowbw)
-
+- [Donate to Me via Momo (Thank you ❤️)](https://me.momo.vn/OeIRu8IViku9TyiPu4Te)
 
 
