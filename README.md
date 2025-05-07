@@ -1,4 +1,4 @@
-## Hello, everyone! I'm Makoto-kun aka Trần Minh Long, a Weeb/Weeboo/Wibu developer. ![](https://komarev.com/ghpvc/?username=MakotoTheGod&color=green&style=for-the-badge&label=Profile+view+since+21/9/2022)
+## Hello, everyone! I'm Makoto-kun aka Trần Minh Long, a Weeb/Weeboo/Wibu developer who not only can work at Data Science. ![](https://komarev.com/ghpvc/?username=MakotoTheGod&color=green&style=for-the-badge&label=Profile+view+since+21/9/2022)
 
  **Technology that learning and coding frequently 🌟 (Last updated at: 2/10/2023):**
 
@@ -29,7 +29,7 @@
 - [Donate me via paypal (thanks ❤️)](https://paypal.me/makotowbw)
 - [Donate to Me via Momo (Thank you ❤️)](https://me.momo.vn/OeIRu8IViku9TyiPu4Te)
 # 
-**One of the best anime banners that I found ^^⛩️:**
+**One of the best anime banners that I found ⛩️:**
 
 ![image](https://github.com/WBWMakoto/WBWMakoto/assets/57854962/ced4f769-5977-4a67-b266-9fa7242521cc)
 
