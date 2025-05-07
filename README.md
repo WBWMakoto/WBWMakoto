@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="npm" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg" alt="npm" width="40" height="40" style="max-width: 100%;">
 # 
-**My Main Discord Projects 🎮:**
+**My Main Discord Projects 🎮 (closed):**
 - [Corona-chan (verified by Discord)](https://top.gg/bot/657215950420049941)
 - [Anime-chan (verified by Discord)](https://top.gg/bot/631096207254618141)
 # 
