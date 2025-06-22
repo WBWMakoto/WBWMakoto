@@ -23,7 +23,7 @@
 # 
 **Contact Me / Info / Non-Code Projects 🌸:**
 - [Discord personal](https://discordapp.com/users/485277325328384000)
-- [Discord server](https://discord.com/invite/wbw)
+- [Discord server](https://discord.gg/6CFsyr3sWB)
 - [Facebook](https://www.facebook.com/wbwmakoto)
 - [Youtube](https://www.youtube.com/c/LolSkiller)
 - [Donate me via paypal (thanks ❤️)](https://paypal.me/makotowbw)
